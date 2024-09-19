@@ -5,9 +5,9 @@
 ---
 
 ## WhoAmI?
-- I'm **dk865**, a developer who loves to **create amazing things**!
-- I make **Python Projects**, used to utilize event-based game engines like **Construct** to build exciting projects, and I also develop **Jailbreak Tweaks**.
-- I recently upgraded from Wi dows 7 to Windows 10 ):
+- I'm **dk865**, a developer who loves to **create amazing things!!**
+- I make **Python Projects**, and used to utilize event-based game engines like **Construct** to build exciting projects, and I also develop **Jailbreak Tweaks**.
+- I recently switched from Windows 7 to Zorin qOS (Linux)
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-### Last Updated: July 2024
+### Last Updated: September 2024
