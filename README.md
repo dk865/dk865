@@ -16,9 +16,9 @@
 ---
 
 ## My Skills:
-- **Languages:** Mainly Python, Batch, Shell, Swift, and English, plus HTML with guidence.
+- **Languages:** Mainly Python, Batch, Shell, and Eng**r**ish, plus HTML with guidence.
 - **Tools:** Git, GitHub, nano, and vi if I am feeling like I want something to struggle with.
-- **Platforms:** Windows, Linux, iPadOS
+- **Platforms:** Linux, iPadOS, & Windows 11
 
 ---
 
