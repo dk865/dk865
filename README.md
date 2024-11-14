@@ -4,10 +4,10 @@
 
 ---
 
-## WhoAmI?
+## Who Am I?
 - I'm **dk865**, a developer who loves to **create amazing things!!**
-- I make **Python Projects**, and used to utilize event-based game engines like **Construct** to build exciting projects, and I also develop **Jailbreak Tweaks**.
-- I recently switched from Windows 7 to Zorin qOS (Linux)
+- I'm currently making a Mod in the Source Engine (2013), make **Python Projects**, and use event-based game engines like **Construct** to build projects, and also develop **Jailbreak Tweaks**.
+- I recently switched from Windows 7 to Zorin OS (Linux)
 
 ---
 
@@ -17,8 +17,8 @@
 
 ## My Skills:
 - **Languages:** Mainly Python, Batch, Shell, and Eng**r**ish, plus HTML with guidence.
-- **Tools:** Git, GitHub, nano, and vi if I am feeling like I want something to struggle with.
-- **Platforms:** Linux, iPadOS, & Windows 11
+- **Tools:** Git, GitHub, nano, Hammer, Hammer++, VPKEdit, VTFEdit Reloaded, Construct 2/3, and vi if I am feeling like I want something to struggle with.
+- **Platforms:** Linux, iPadOS (Jailbroken), & Windows 11
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-### Last Updated: September 2024
+### Last Updated: November 2024
