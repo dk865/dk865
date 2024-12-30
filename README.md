@@ -6,8 +6,8 @@
 
 ## Who Am I?
 - I'm **dk865**, a developer who loves to **create amazing things!!**
-- I'm currently making a Mod in the Source Engine (2013), make **Python Projects**, and use event-based game engines like **Construct** to build projects, and also develop **Jailbreak Tweaks**.
-- I recently switched from Windows 7 to Zorin OS (Linux)
+- I'm currently working on 2 big Source Wngine projects: a Portal Mod, and a Mystery House Mocup, make **Python Projects**, and use event-based game engines like **Construct** to build projects, and also develop **Jailbreak Tweaks**.
+- My main OS is Ubuntu. I love Linux! (Everything but compatibility)
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-### Last Updated: November 2024
+### Last Updated: December 2024
