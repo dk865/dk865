@@ -5,9 +5,9 @@
 ---
 
 ## Who Am I?
-- I'm **dk865**, a developer who loves to **create amazing things!!**
-- I'm currently working on 2 big Source Wngine projects: a Portal Mod, and a Mystery House Mocup, make **Python Projects**, and use event-based game engines like **Construct** to build projects, and also develop **Jailbreak Tweaks**.
-- My main OS is Ubuntu. I love Linux! (Everything but compatibility)
+- I'm **dk865**, a basic developer.
+- I'm currently working on 2 big Source Engine (2013) projects: a Portal Mod, and a Mystery House Mocup, make Python Projects, and use event-based game engines like Construct to quickly build projects, and also develop Jailbreak Tweaks (sparsely)
+- My main OS is Ubuntu. I love Linux! (Everything but compatibility...)
 
 ---
 
