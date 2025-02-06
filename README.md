@@ -23,10 +23,10 @@
 ---
 ### Various GitHub Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dk865&show_icons=true&count_private=true&theme=dark)](https://github.com/m1stadev)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dk865&show_icons=true&count_private=true&theme=dark)]()
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dk865&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/m1stadev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dk865&layout=compact&langs_count=6&hide=assembly&theme=dark)]()
 
 ---
 
