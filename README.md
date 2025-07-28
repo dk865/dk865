@@ -6,7 +6,7 @@
 
 ## Who Am I?
 - I'm **dk865**, a basic developer.
-- I'm currently working on 2 big Source Engine (2013) projects: a Portal Mod, and a Mystery House Source Game, make Python Projects, and use event-based game engines like Construct to quickly build projects, and also develop Jailbreak Tweaks (sparsely)
+- I'm currently working on 2 big Source Engine (2013) projects: a Portal Mod, and a Mystery House Source Game, make Python Projects, and sometimes use cheating tools like Construct to make games without coding.
 - My main OS is now (sadly) Windows 10. I love Linux! (Everything but compatibility...)
 
 ---
@@ -17,9 +17,8 @@
 
 ## My Skills:
 - **Languages:** Mainly C++, Python, Batch, Shell, and Eng**r**ish, plus HTML with guidence.
-- **Tools:** Git, GitHub, nano, Hammer, Hammer++, VPKEdit, VTFEdit Reloaded, Crowbar, HLFaceposer, Construct 2/3, and vi if I am feeling like I want something to struggle with.
-- **Platforms:** Windows 10 (Can't live without WSL 🥳), iPadOS (Jailbroken), & Windows 11
-
+- **Tools:** Git, GitHub, nano, Hammer++, VPKEdit, VTFEdit Reloaded, Crowbar, HLFaceposer, Construct 2/3, and vi if I am feeling like I want something to struggle with.
+- **Platforms:** Windows 10 (Can't live without WSL2 🥳), iPadOS (26 Developer Beta), Ubuntu Server, and Raspbian for my Discord Bots.
 ---
 ### Various GitHub Stats:
 
